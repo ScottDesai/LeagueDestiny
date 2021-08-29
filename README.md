@@ -1,0 +1,2 @@
+# LeagueDestiny
+VerificationURL
